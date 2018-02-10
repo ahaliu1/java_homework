@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="java-example:jar">
+    <output-path>$PROJECT_DIR$/output</output-path>
+    <root id="root">
+      <element id="archive" name="java-example.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="java-example" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.3" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.38" />
+    </root>
+  </artifact>
+</component>

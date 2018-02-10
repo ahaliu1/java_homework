@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jsoup-1.8.3.jar mysql-connector-java-5.1.38.jar
+Main-Class: Main
+

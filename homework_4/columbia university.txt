@@ -1,0 +1,466 @@
+columbia university	United States	Accelerated Program in Interdisciplinary Legal Education 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.columbia.edu/dos/other.html#law
+columbia university	United States	Actuarial Science 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Actuarial-Science
+columbia university	United States	Adult Learning and Leadership 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/academic/o&ldept/adulted/
+columbia university	United States	Advanced Architectural Design 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/school/section/programs/master-science-advanced-architectural-design
+columbia university	United States	Advanced Policy and Economic Analysis Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/advanced-policy-and-economic-analysis
+columbia university	United States	African Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/afts.php
+columbia university	United States	African Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1792
+columbia university	United States	African Studies, Certificate in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/african-studies-cert/department.html
+columbia university	United States	African-American Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/african.php
+columbia university	United States	African-American Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/african-american-studies/bulletin.html
+columbia university	United States	African-American Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1787
+columbia university	United States	Africana Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/africana/
+columbia university	United States	American Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/amstud/
+columbia university	United States	American Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/american.php
+columbia university	United States	American Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1793
+columbia university	United States	American Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/american-studies/bulletin.html
+columbia university	United States	Anatomy and Cell Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/anatomy/bulletin.html
+columbia university	United States	Ancient Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/classics/
+columbia university	United States	Ancient Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/ancient.php
+columbia university	United States	Ancient Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1794
+columbia university	United States	Anthropology 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/anthro/
+columbia university	United States	Anthropology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/anthro.php
+columbia university	United States	Anthropology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/anthropology/bulletin.html
+columbia university	United States	Anthropology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1795
+columbia university	United States	Anthropology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/its/Anthro/
+columbia university	United States	Applied Linguistics 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/a&h/tesolal
+columbia university	United States	Applied Mathematics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.math.columbia.edu/
+columbia university	United States	Applied Mathematics 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.apam.columbia.edu/
+columbia university	United States	Applied Mathematics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/applied-mathematics/bulletin.html
+columbia university	United States	Applied Mathematics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1796
+columbia university	United States	Applied Physics 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.apam.columbia.edu/
+columbia university	United States	Applied Physics and Applied Mathematics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/applied-physics-and-applied-mathematics/bulletin.html
+columbia university	United States	Applied Science Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/applied-science
+columbia university	United States	Archaeology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/archa.php
+columbia university	United States	Archaeology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1797
+columbia university	United States	Architecture 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/archi.php
+columbia university	United States	Architecture 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/school/section/programs/architecture/masters-architecture
+columbia university	United States	Architecture 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1798
+columbia university	United States	Architecture and History and Theory 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/archprogram
+columbia university	United States	Architecture and Urban Design 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/urban-design
+columbia university	United States	Architecture, History and Theory 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/architecture-history-theory/bulletin.html
+columbia university	United States	Architecture, History and Theory 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1799
+columbia university	United States	Art and Art Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/a%26h/ArtEd/
+columbia university	United States	Art History 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/arthis_arch.php
+columbia university	United States	Art History 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2544
+columbia university	United States	Art History and Archaeology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/art-history-and-archaeology/bulletin.html
+columbia university	United States	Art History and Visual Arts 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/arthist/
+columbia university	United States	Art History-Visual Arts 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1800
+columbia university	United States	Arts Administration 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/academic/arad/
+columbia university	United States	Arts and Humanities 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/a&h/
+columbia university	United States	Asian American Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/asia_amer_studies.php
+columbia university	United States	Asian American Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1801
+columbia university	United States	Asian and Middle Eastern Cultures 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/amec/
+columbia university	United States	Astronomy 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.phys.barnard.edu/
+columbia university	United States	Astronomy 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/astro.php
+columbia university	United States	Astronomy 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/astronomy/bulletin.html
+columbia university	United States	Astronomy 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1802
+columbia university	United States	Astrophysics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.astro.columbia.edu/
+columbia university	United States	Astrophysics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1803
+columbia university	United States	Atmospheric and Planetary Science 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/atmosperic-and-planetary-science/bulletin.html
+columbia university	United States	Bilingual/Bicultural Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/a&h/bilingual/
+columbia university	United States	Biobehavioral Sciences 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/bbs/
+columbia university	United States	Biochemistry 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/chem/
+columbia university	United States	Biochemistry 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/bio.php
+columbia university	United States	Biochemistry 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1804
+columbia university	United States	Biochemistry and Molecular Biophysics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/biochemistry/bulletin.html
+columbia university	United States	Bioethics 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Bioethics
+columbia university	United States	Biological Sciences 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/biology/
+columbia university	United States	Biological Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/biological-sciences/bulletin.html
+columbia university	United States	Biology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/bio.php
+columbia university	United States	Biology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1120
+columbia university	United States	Biomedical Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.bme.columbia.edu/
+columbia university	United States	Biomedical Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/biomedical-engineering/bulletin.html
+columbia university	United States	Biomedical Informatics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/medical-informatics/bulletin.html
+columbia university	United States	Biophysics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/bio.php
+columbia university	United States	Biophysics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1805
+columbia university	United States	Biostatistics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/biostatistics/bulletin.html
+columbia university	United States	Biostatistics 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/biostatistics
+columbia university	United States	Biotechnology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/biotechnology/bulletin.html
+columbia university	United States	Buddhist Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/buddhist-studies/bulletin.html
+columbia university	United States	Business 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/business/bulletin.html
+columbia university	United States	Cellular Physiology and Biophysics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/physiology-cellular-biophysics/bulletin.html
+columbia university	United States	Cellular, Molecular, and Biomedical Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/cell-mol-and-biophy-studies/bulletin.html
+columbia university	United States	Certificate in Conservation of Historic Buildings 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/school/section/programs/certificate-historic-preservation-analysis-historic-architectural-design
+columbia university	United States	Chemical Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/chemical-biology/department.html
+columbia university	United States	Chemical Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.cheme.columbia.edu/
+columbia university	United States	Chemical Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/chemical-engineering/bulletin.html
+columbia university	United States	Chemical Physics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/chem.php
+columbia university	United States	Chemical Physics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/chemical-physics/bulletin.html
+columbia university	United States	Chemistry 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/chem/
+columbia university	United States	Chemistry 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/chem.php
+columbia university	United States	Chemistry 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/chemistry/bulletin.html
+columbia university	United States	Chemistry 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1806
+columbia university	United States	Civil Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.civil.columbia.edu/
+columbia university	United States	Civil Engineering and Engineering Mechanics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/civil-engineering/bulletin.html
+columbia university	United States	Classical Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/classics.php
+columbia university	United States	Classical Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/classical-studies/bulletin.html
+columbia university	United States	Classical Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1807
+columbia university	United States	Classics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/classics.php
+columbia university	United States	Classics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/classics/bulletin.html
+columbia university	United States	Classics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1808
+columbia university	United States	Classics, Greek/Latin 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/classics/
+columbia university	United States	Climate and Society 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/climate-society/bulletin.html
+columbia university	United States	Clinical Psychology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/ccp/clinical/
+columbia university	United States	Cognitive Studies in Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/hud/Cognition/
+columbia university	United States	Communication, Computing and Technology in Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/mst/ccte/
+columbia university	United States	Communications 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/communications/bulletin.html
+columbia university	United States	Communications 	Graduate School of Journalism	NULL	NULL	NULL	NULL	NULL	NULL	http://www.journalism.columbia.edu/cs/ContentServer/jrn/1165270052340/page/1165270091299/JRNSimplePage2.htm
+columbia university	United States	Comparative Ethnic Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/competh.php?tab=ugrad
+columbia university	United States	Comparative Ethnic Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1809
+columbia university	United States	Comparative Literature 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/complit/
+columbia university	United States	Comparative Literature and Society 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/complit.php
+columbia university	United States	Comparative Literature and Society 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/comp-lit-and-society/bulletin.html
+columbia university	United States	Comparative Literature and Society 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1810
+columbia university	United States	Computational Biology 	Integrated Programs in Cellular, Molecular, and Biomedical Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://systemsbiology.columbia.edu/center-for-computational-biology-and-bioinformatics-c2b2
+columbia university	United States	Computer Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.compeng.columbia.edu/
+columbia university	United States	Computer Science 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.cs.columbia.edu/
+columbia university	United States	Computer Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/cs.php
+columbia university	United States	Computer Science 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.cs.columbia.edu/
+columbia university	United States	Computer Science 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/computer-science/bulletin.html
+columbia university	United States	Computer Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1119
+columbia university	United States	Computer Science-Mathematics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/math.php
+columbia university	United States	Computer Science-Mathematics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1118
+columbia university	United States	Conservation Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/conservation-biology/bulletin.html
+columbia university	United States	Construction Administration 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Construction-Administration
+columbia university	United States	Construction Engineering Management 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.civil.columbia.edu/
+columbia university	United States	Counseling Psychology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/ccp/CounPsych/
+columbia university	United States	Creative Writing 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/creative.php
+columbia university	United States	Creative Writing 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1811
+columbia university	United States	Critical, Curatorial and Conceptual Practices 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/cccparch
+columbia university	United States	Cross Registration With the Manhattan School Of Music 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/catalog/cur/other.php
+columbia university	United States	Curriculum and Teaching 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/c&t/masterProg/
+columbia university	United States	Dance 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/dance/
+columbia university	United States	Dance 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/dance.php
+columbia university	United States	Dance 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1812
+columbia university	United States	Dental Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/dental-sciences/bulletin.html
+columbia university	United States	Development Practice 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu/academics/degree_programs/mpa-dp/index.html
+columbia university	United States	Developmental Psychology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hud/DevPsych/
+columbia university	United States	Double Degree Program With the Jewish Theological Seminary 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/catalog/cur/other.php
+columbia university	United States	Drama and Theatre Arts 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/drama.php
+columbia university	United States	Drama and Theatre Arts 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://bulletin.columbia.edu/general-studies/undergraduates/majors-concentrations/drama-theatre-arts/
+columbia university	United States	Early Childhood Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/C&T/childEd/
+columbia university	United States	Earth and Environmental Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.eee.columbia.edu/
+columbia university	United States	Earth and Environmental Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/earth-env-engineering/bulletin.html
+columbia university	United States	Earth and Environmental Science Journalism 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/earth-env-sciences-journalism/bulletin.html
+columbia university	United States	Earth and Environmental Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/earth-env-sciences/bulletin.html
+columbia university	United States	Earth Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/dees.php
+columbia university	United States	Earth Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1814
+columbia university	United States	East Asia: Regional Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/east-asia-regional-studies/bulletin.html
+columbia university	United States	East Asian Languages and Cultures 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/ealac.php
+columbia university	United States	East Asian Languages and Cultures 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/east-asian-languages-cultures/bulletin.html
+columbia university	United States	East Asian Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1815
+columbia university	United States	East Asian Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/east-asian-studies/bulletin.html
+columbia university	United States	East Central European Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1816
+columbia university	United States	Ecology, Evolution and Environmental Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/ecology-evolution-and-environmental-biology/bulletin.html
+columbia university	United States	Economic and Political Development Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/economic-and-political-development
+columbia university	United States	Economic Policy Management 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu/academics/degree_programs/pepm/index.html
+columbia university	United States	Economics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/economics/bulletin.html
+columbia university	United States	Economics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1817
+columbia university	United States	Economics and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/epsa/Economics/
+columbia university	United States	Economics and Mathematics 	Barnard College, pdf	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/academics/econ_math.pdf
+columbia university	United States	Economics and Political Economy, Economic History 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://cedar.barnard.columbia.edu/
+columbia university	United States	Economics-Mathematics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics-Mathematics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1818
+columbia university	United States	Economics-Operations Research 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics-Operations Research 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1819
+columbia university	United States	Economics-Philosophy 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics-Philosophy 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1820
+columbia university	United States	Economics-Political Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics-Political Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1821
+columbia university	United States	Economics-Statistics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/econ.php
+columbia university	United States	Economics-Statistics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1822
+columbia university	United States	Education 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/education/
+columbia university	United States	Education 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/ed.php
+columbia university	United States	Education 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/education/bulletin.html
+columbia university	United States	Education 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1823
+columbia university	United States	Education Leadership 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/o&l/ed-leadership/
+columbia university	United States	Electrical Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.ee.columbia.edu/
+columbia university	United States	Electrical Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/electrical-engineering/bulletin.html
+columbia university	United States	Elementary Inclusive Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/c%26t/ChildEdPre/
+columbia university	United States	Energy and Environment Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/energy-and-environment
+columbia university	United States	Engineering and Management Systems 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.ieor.columbia.edu/
+columbia university	United States	Engineering Mechanics 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.civil.columbia.edu/
+columbia university	United States	English 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/english/
+columbia university	United States	English 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/english.php
+columbia university	United States	English and Comparative Literature 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/english-comparative-lit/bulletin.html
+columbia university	United States	English and Comparative Literature 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1788
+columbia university	United States	English Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/a%26h/EnglishEd/
+columbia university	United States	Environmental Biology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/cerc.php
+columbia university	United States	Environmental Biology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1824
+columbia university	United States	Environmental Chemistry 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/chem.php
+columbia university	United States	Environmental Health Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/environmental-health-sciences/bulletin.html
+columbia university	United States	Environmental Health Sciences 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/environmental-health-sciences
+columbia university	United States	Environmental Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/dees.php
+columbia university	United States	Environmental Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1825
+columbia university	United States	Environmental Science and Policy 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/mpaenvironment/index.html
+columbia university	United States	Environmental Science, Biology, Policy 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/envsci/
+columbia university	United States	Epidemiology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/epidemiology/bulletin.html
+columbia university	United States	Epidemiology 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/epidemiology
+columbia university	United States	Evolutionary Biology of the Human Species 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/cerc.php
+columbia university	United States	Evolutionary Biology of the Human Species 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1826
+columbia university	United States	Executive Master of Public Policy and Administration 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu//academics/degree_programs/empa/index.html
+columbia university	United States	Executive Program for Nurses 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/o%26l/NurseExec/
+columbia university	United States	Family and Community Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/academics/familyed
+columbia university	United States	Film 	School of the Arts	NULL	NULL	NULL	NULL	NULL	NULL	http://arts.columbia.edu/film
+columbia university	United States	Film Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/film/
+columbia university	United States	Film Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/film.php
+columbia university	United States	Film Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1827
+columbia university	United States	Film Studies 	School of the Arts	NULL	NULL	NULL	NULL	NULL	NULL	http://wwwapp.cc.columbia.edu/art/app/arts/film/index.jsp
+columbia university	United States	Financial Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.ieor.columbia.edu/
+columbia university	United States	Foreign Area Studies, Interdisciplinary and Regional 	Barnard College, pdf	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/academics/foreign_area.pdf
+columbia university	United States	French 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/french/
+columbia university	United States	French 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1828
+columbia university	United States	French and Francophone Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/francophone.php
+columbia university	United States	French and Francophone Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1829
+columbia university	United States	French and Romance Philology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/french.php
+columbia university	United States	French and Romance Philology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/french-and-romance-philology/bulletin.html
+columbia university	United States	French Cultural Studies in a Global Context 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/french-cultural-studies/bulletin.html
+columbia university	United States	Gender and Public Policy Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/gender-and-public-policy-specialization
+columbia university	United States	Genetics and Development 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/genetics-development/bulletin.html
+columbia university	United States	German 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/german/
+columbia university	United States	German Literature and Cultural History 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/german.php
+columbia university	United States	German Literature and Cultural History 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1830
+columbia university	United States	Germanic Languages 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/germanic-languages/bulletin.html
+columbia university	United States	Gifted Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/C&T/GiftedEd/
+columbia university	United States	Global Thought 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://cgt.columbia.edu/academics/ma/
+columbia university	United States	Health and Behavior Studies 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hbs/
+columbia university	United States	Health Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/hbs/HealthEd/
+columbia university	United States	Health Policy and Management 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/health-policy-management
+columbia university	United States	Higher and Postsecondary Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/academic/o&ldept/highered/
+columbia university	United States	Hispanic Cultural Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/hispanic-studies/bulletin.html
+columbia university	United States	Hispanic Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/spanish.php
+columbia university	United States	Hispanic Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1831
+columbia university	United States	Historic Preservation 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/school/section/programs/master-science-historic-preservation
+columbia university	United States	History 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/history/
+columbia university	United States	History 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/history.php
+columbia university	United States	History 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/history/bulletin.html
+columbia university	United States	History 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1832
+columbia university	United States	History and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/a%26h/history-ed/
+columbia university	United States	History and Literature 	Reid Hall, Paris	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/historyandliterature
+columbia university	United States	History and Theory of Architecture 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/arthis_arch.php?tab=ugrad
+columbia university	United States	Human Development 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hud/
+columbia university	United States	Human Rights & Humanitarian Policy Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/human-rights-and-humanitarian-policy-concentration
+columbia university	United States	Human Rights 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/human.php
+columbia university	United States	Human Rights 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/human-rights/bulletin.html
+columbia university	United States	Human Rights 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2152
+columbia university	United States	Human Rights Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/humright/
+columbia university	United States	Human Rights Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/human-rights-studies/bulletin.html
+columbia university	United States	Industrial Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.ieor.columbia.edu/
+columbia university	United States	Industrial Engineering and Operations Research 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/industrial-engineering-operations/bulletin.html
+columbia university	United States	Information Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/cs.php
+columbia university	United States	Information Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1833
+columbia university	United States	Interdisciplinary Studies in Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/academics/interdisciplinary
+columbia university	United States	International Affairs 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu/academics/degree_programs/mia/index.html
+columbia university	United States	International and Comparative Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/its/cie%26ied/
+columbia university	United States	International and Transcultural Studies 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/its/
+columbia university	United States	International and World History, Dual Degree M.A./M.Sc. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/international-world-history/bulletin.html
+columbia university	United States	International Conflict Resolution Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/international-conflict-resolution
+columbia university	United States	International Finance and Economic Policy Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/international-finance-and-economic-policy
+columbia university	United States	International Media, Advocacy, and Communications Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/international-media-advocacy-and-communications
+columbia university	United States	International Organizations Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/international-organization
+columbia university	United States	International Security Policy Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/international-security-policy
+columbia university	United States	Introduction to Architecture 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/introduction-architecture
+columbia university	United States	Islamic Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/islamic-studies/bulletin.html
+columbia university	United States	Italian 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/italian/
+columbia university	United States	Italian 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/italian/bulletin.html
+columbia university	United States	Italian Cultural Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/italian.php
+columbia university	United States	Italian Cultural Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1834
+columbia university	United States	Italian Literature 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/italian.php
+columbia university	United States	Italian Literature 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1835
+columbia university	United States	J.D./Ph.D. Program 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/JD-PHD/bulletin.html
+columbia university	United States	Japanese Pedagogy 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/japanese-pedagogy/bulletin.html
+columbia university	United States	Jazz Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/jazz.php
+columbia university	United States	Jazz Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2153
+columbia university	United States	Jewish Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/jewstuds/
+columbia university	United States	Jewish Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/jewish-studies/bulletin.html
+columbia university	United States	Jewish Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/jewish-liberal-studies/bulletin.html
+columbia university	United States	Joint Degree With Juilliard 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/catalog/cur/other.php
+columbia university	United States	Joint Degree With the School of Dental and Oral Surgery 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/catalog/cur/other.php
+columbia university	United States	Joint Degree With the School of International and Public Affairs 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.columbia.edu/dos/other.html#sipa
+columbia university	United States	Journalism 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/journalism/department.html
+columbia university	United States	Journalism, Master of Arts in 	Graduate School of Journalism	NULL	NULL	NULL	NULL	NULL	NULL	http://www.journalism.columbia.edu/cs/ContentServer/jrn/1165270052332/page/1165270052391/JRNSimplePage2.htm
+columbia university	United States	Journalism, Master of Science in 	Graduate School of Journalism	NULL	NULL	NULL	NULL	NULL	NULL	http://www.journalism.columbia.edu/cs/ContentServer/jrn/1165270052336/page/1165270052474/JRNSimplePage2.htm
+columbia university	United States	JTS List College Joint Program 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/jts-joint-program
+columbia university	United States	Landscape Design 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Landscape-Design
+columbia university	United States	Latin America and the Caribbean: Regional Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/latin-america-caribbean/bulletin.html
+columbia university	United States	Latin American and Caribbean Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/lcrs.php
+columbia university	United States	Latin American and Caribbean Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1836
+columbia university	United States	Latin American and Iberian Cultures 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/latin-american-iberian-cultures/bulletin.html
+columbia university	United States	Latino Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/latino.php
+columbia university	United States	Latino Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1837
+columbia university	United States	Linguistics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/ling.php
+columbia university	United States	Linguistics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2154
+columbia university	United States	M.D./Ph.D. 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/md-phd/bulletin.html
+columbia university	United States	Management Specialization »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/specializations/management
+columbia university	United States	Materials Science and Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.seas.columbia.edu/matsci/
+columbia university	United States	Materials Science and Engineering/Solid State Science and Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/solid-state-science-engineering/bulletin.html
+columbia university	United States	Mathematical Structures for Environmental and Social Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/mathematical-structures-environmental/bulletin.html
+columbia university	United States	Mathematics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/math.php
+columbia university	United States	Mathematics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/mathematics/bulletin.html
+columbia university	United States	Mathematics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1838
+columbia university	United States	Mathematics and Applied Math 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/math/
+columbia university	United States	Mathematics Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/MST/MathEd/
+columbia university	United States	Mathematics of Finance 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/mathematics-of-finance/bulletin.html
+columbia university	United States	Mathematics, Science and Technology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/mst/
+columbia university	United States	Mathematics-Statistics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/math.php
+columbia university	United States	Mathematics-Statistics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1839
+columbia university	United States	Measurement, Evaluation and Statistics 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hud/measurement/
+columbia university	United States	Mechanical Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/mechanical/
+columbia university	United States	Mechanical Engineering 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/mechanical-engineering/bulletin.html
+columbia university	United States	Medical Doctor 	College of Physicians and Surgeons	NULL	NULL	NULL	NULL	NULL	NULL	http://www.cumc.columbia.edu/dept/ps/admissions/index.html
+columbia university	United States	Medical Physics 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.apam.columbia.edu/
+columbia university	United States	Medieval and Renaissance Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/medren/
+columbia university	United States	Medieval and Renaissance Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/medieval.php
+columbia university	United States	Medieval and Renaissance Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/medieval-renaissance-studies/bulletin.html
+columbia university	United States	Medieval and Renaissance Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2155
+columbia university	United States	Medieval Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/medieval-studies/bulletin.html
+columbia university	United States	Metallurgical Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.eee.columbia.edu/index.html
+columbia university	United States	Microbiology, Immunology and Infection 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/microbiology/bulletin.html
+columbia university	United States	Middle East and Asian Languages and Cultures 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/mealac.php
+columbia university	United States	Middle East and Asian Languages and Cultures 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1840
+columbia university	United States	Middle East Studies, Certificate in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/middle-east-cert/department.html
+columbia university	United States	Middle Eastern, South Asian and African Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/middle-east-asian-languages/bulletin.html
+columbia university	United States	Mining Engineering 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.eee.columbia.edu/index.html
+columbia university	United States	Modern Art, Critical, and Curatorial Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/modern-art-critical-studies/bulletin.html
+columbia university	United States	Modern European Studies, Liberal Studies M.A. in 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/modern-european-studies/bulletin.html
+columbia university	United States	Modern Greek Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/classics.php?tab=ugrad
+columbia university	United States	Modern Greek Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2156
+columbia university	United States	Movement Science and Education/Kinesiology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/bbs/Movement/
+columbia university	United States	Museum Anthropology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/museum-anthropology/bulletin.html
+columbia university	United States	Music 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/music/
+columbia university	United States	Music 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/music.php
+columbia university	United States	Music 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/music/bulletin.html
+columbia university	United States	Music 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1841
+columbia university	United States	Music and Music Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/a%26h/MusicEd/
+columbia university	United States	Narrative Medicine 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Narrative-Medicine
+columbia university	United States	Negotiation and Conflict Resolution 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Negotiation-and-Conflict-Resolution
+columbia university	United States	Neurobiology and Behavior 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/neurobiology-behavior/bulletin.html
+columbia university	United States	Neuroscience and Behavior 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/neurosci/
+columbia university	United States	Neuroscience and Behavior 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/psych.php
+columbia university	United States	Neuroscience and Behavior 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1842
+columbia university	United States	Neurosciences and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/bbs/neurosci/
+columbia university	United States	New York/Paris Program 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/nyparis
+columbia university	United States	Nonprofit Management 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/nonprofit-management
+columbia university	United States	Nursing Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/hbs/NurseEd/
+columbia university	United States	Nursing Practice, Doctor of 	School of Nursing	NULL	NULL	NULL	NULL	NULL	NULL	http://sklad.cumc.columbia.edu/nursing/programs/dnp.php
+columbia university	United States	Nursing, Doctor of Philosophy in 	School of Nursing	NULL	NULL	NULL	NULL	NULL	NULL	http://sklad.cumc.columbia.edu/nursing/programs/phd_descr.html
+columbia university	United States	Nursing, Entry to Practice Program 	School of Nursing	NULL	NULL	NULL	NULL	NULL	NULL	http://sklad.cumc.columbia.edu/nursing/programs/etp.php
+columbia university	United States	Nursing, Master of Science in 	School of Nursing	NULL	NULL	NULL	NULL	NULL	NULL	http://www.cumc.columbia.edu/dept/nursing/admissions/index.html
+columbia university	United States	Nursing, Post Master's Certificate Program 	School of Nursing	NULL	NULL	NULL	NULL	NULL	NULL	http://sklad.cumc.columbia.edu/nursing/programs/certificate-program.php
+columbia university	United States	Nutrition 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/hbs/nutrition/
+columbia university	United States	Nutritional and Metabolic Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/nutrition/bulletin.html
+columbia university	United States	Operations Research 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://www.ieor.columbia.edu/
+columbia university	United States	Operations Research 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/operations-research/bulletin.html
+columbia university	United States	Oral History 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/oral-history/bulletin.html
+columbia university	United States	Organization and Leadership 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/o&l/
+columbia university	United States	Pathology and Cell Biology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/pathology/bulletin.html
+columbia university	United States	Pharmacology and Molecular Signaling 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/pharmacology/bulletin.html
+columbia university	United States	Philosophical Foundations of Physics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/philosophical-foundations-physics/bulletin.html
+columbia university	United States	Philosophy 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/philosophy/
+columbia university	United States	Philosophy 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/philo.php
+columbia university	United States	Philosophy 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/philosophy/bulletin.html
+columbia university	United States	Philosophy 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1843
+columbia university	United States	Philosophy and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/philosophy/
+columbia university	United States	Physics 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.phys.barnard.edu/
+columbia university	United States	Physics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/physics.php
+columbia university	United States	Physics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/physics/bulletin.html
+columbia university	United States	Physics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1844
+columbia university	United States	Political Science 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/polisci/
+columbia university	United States	Political Science 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/polisci.php
+columbia university	United States	Political Science 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/political-science/bulletin.html
+columbia university	United States	Political Science 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1845
+columbia university	United States	Political Science-Statistics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/polisci.php
+columbia university	United States	Political Science-Statistics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1846
+columbia university	United States	Politics and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/epsa/politics
+columbia university	United States	Population and Family Health 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/population-family-health/
+columbia university	United States	Portuguese 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/spanish.php
+columbia university	United States	Portuguese Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2157
+columbia university	United States	Postbaccalaureate Premedical Program 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gs/postbac/
+columbia university	United States	Psychology 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/psych/
+columbia university	United States	Psychology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/psych.php
+columbia university	United States	Psychology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/psychology/bulletin.html
+columbia university	United States	Psychology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1847
+columbia university	United States	Public Administration 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu/academics/degree_programs/mpa/index.html
+columbia university	United States	Quantitative Methods in the Social Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/quantitative-methods-social-sciences/bulletin.html
+columbia university	United States	Quantitative Methods in the Social Sciences, Dual Degree MA/MPA 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/qmss-sipa/bulletin.html
+columbia university	United States	Reading Specialist 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hbs/Reading-Specialist/
+columbia university	United States	Real Estate Development 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/real-estate-development
+columbia university	United States	Regional Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1848
+columbia university	United States	Regional Studies-East/Central Europe 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/region.php
+columbia university	United States	Religion 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/religion/
+columbia university	United States	Religion 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/religion.php
+columbia university	United States	Religion 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/religion/bulletin.html
+columbia university	United States	Religion 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1849
+columbia university	United States	Religion-Journalism, Dual MA/MS 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/religion-journalism/department.html
+columbia university	United States	Russia, Eurasia, and Eastern Europe: Regional Studies Program 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/russia-eurasia-east-europe/bulletin.html
+columbia university	United States	Russian Language and Culture 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/slavic.php?tab=ugrad
+columbia university	United States	Russian Language and Culture 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1850
+columbia university	United States	Russian Literature and Culture 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/slavic.php?tab=ugrad
+columbia university	United States	Russian Literature and Culture 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1851
+columbia university	United States	Russian Translation 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/russian-translation/bulletin.html
+columbia university	United States	School Psychology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hbs/SchoolPsych/
+columbia university	United States	Science Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/MST/Scienceed/
+columbia university	United States	Slavic Cultures 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/slavic-cultures/bulletin.html
+columbia university	United States	Slavic Languages 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/slavic-languages/bulletin.html
+columbia university	United States	Slavic Literature and Culture 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/slavic.php
+columbia university	United States	Slavic Literature and Culture 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2158
+columbia university	United States	Slavic Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/slavic.php
+columbia university	United States	Slavic Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1852
+columbia university	United States	Slavic, Russian and Eastern European 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/slavic/
+columbia university	United States	Social Studies Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/a%26h/socialstudies/
+columbia university	United States	Social Work 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/social-work/bulletin.html
+columbia university	United States	Social Work, Doctor of Philosophy in 	School of Social Work	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/ssw/phdprogram/
+columbia university	United States	Social Work, Master of Science in 	School of Social Work	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/ssw/admissions/
+columbia university	United States	Social-Organizational Psychology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/o%26l/OrgPsych/
+columbia university	United States	Sociology 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/sociology/
+columbia university	United States	Sociology 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/soc.php
+columbia university	United States	Sociology 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/sociology/bulletin.html
+columbia university	United States	Sociology 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1853
+columbia university	United States	Sociology and Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/epsa/Sociology/
+columbia university	United States	Sociomedical Sciences 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/sociomedical-sciences/bulletin.html
+columbia university	United States	Sociomedical Sciences 	Mailman School of Public Health	NULL	NULL	NULL	NULL	NULL	NULL	http://mailman.hs.columbia.edu/academics/degree-offerings/sociomedical-sciences/
+columbia university	United States	South Asia Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://gsas.columbia.edu/content/academic-programs/south-asian-studies
+columbia university	United States	Spanish and Latin American Cultures 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/spanish/
+columbia university	United States	Spanish and Portuguese 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/spanish-portuguese/department.html
+columbia university	United States	Special Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/hbs/SpecialEd/
+columbia university	United States	Special Student 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/school/thebulletin/special-students
+columbia university	United States	Speech and Language Pathology 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/bbs/speech-language/
+columbia university	United States	Sports Management 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Sports-Management
+columbia university	United States	Statistics 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.stat.columbia.edu/
+columbia university	United States	Statistics 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/stat.php
+columbia university	United States	Statistics 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/statistics/bulletin.html
+columbia university	United States	Statistics 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1854
+columbia university	United States	Strategic Communication 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/communication
+columbia university	United States	Sustainability Management 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Sustainability-Management
+columbia university	United States	Sustainable Development 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/sustdev.php
+columbia university	United States	Sustainable Development 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/sustainable-development/bulletin.html
+columbia university	United States	Sustainable Development 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=2159
+columbia university	United States	Sustainable Development 	School of International and Public Affairs	NULL	NULL	NULL	NULL	NULL	NULL	http://sipa.columbia.edu/academics/degree_programs/phd/index.html
+columbia university	United States	Systems Biology 	Integrated Program in Cellular, Molecular, and Biomedical Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://systemsbiology.columbia.edu/graduate-education-in-systems-computational-biology
+columbia university	United States	Teachers College Japan Program 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc-japan.edu/
+columbia university	United States	Teaching American Sign Language as a Foreign Language 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.edu/hbs/ASL/
+columbia university	United States	Teaching English to Speakers of Other Languages 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/a&h/tesolal/
+columbia university	United States	Technological Entrepreneurship 	Fu Foundation School of Engineering and Applied Science	NULL	NULL	NULL	NULL	NULL	NULL	http://ctice.columbia.edu/content/engaged-entrepreneurship
+columbia university	United States	Technology Management 	School of Professional Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://sps.columbia.edu/Technology-Management
+columbia university	United States	The Lesson Exchange With Juilliard 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/catalog/cur/other.php
+columbia university	United States	Theatre 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/theatre/
+columbia university	United States	Theatre 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/theater/bulletin.html
+columbia university	United States	Theatre Arts 	School of the Arts	NULL	NULL	NULL	NULL	NULL	NULL	http://arts.columbia.edu/theatre-arts
+columbia university	United States	Urban and Social Policy Concentration »	NULL	NULL	NULL	NULL	NULL	NULL	NULL	https://sipa.columbia.edu/academics/concentrations/urban-and-social-policy
+columbia university	United States	Urban Education 	Teachers College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.tc.columbia.edu/academics/urbaned
+columbia university	United States	Urban Planning 	Graduate School of Architecture, Planning and Preservation	NULL	NULL	NULL	NULL	NULL	NULL	http://www.arch.columbia.edu/programs/urban-planning
+columbia university	United States	Urban Planning 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/urban-planning/bulletin.html
+columbia university	United States	Urban Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.edu/urban/
+columbia university	United States	Urban Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/urban.php
+columbia university	United States	Urban Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1855
+columbia university	United States	Visual Arts 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/visarts.php
+columbia university	United States	Visual Arts 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1856
+columbia university	United States	Visual Arts 	School of the Arts	NULL	NULL	NULL	NULL	NULL	NULL	http://arts.columbia.edu/visual-arts
+columbia university	United States	Women's and Gender Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1857
+columbia university	United States	Women’s and Gender Studies 	Columbia College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.college.columbia.edu/bulletin/depts/women.php
+columbia university	United States	Women’s Studies 	Barnard College	NULL	NULL	NULL	NULL	NULL	NULL	http://www.barnard.columbia.edu/wmstud/
+columbia university	United States	Writing 	School of the Arts	NULL	NULL	NULL	NULL	NULL	NULL	http://arts.columbia.edu/writing
+columbia university	United States	Yiddish Studies 	Graduate School of Arts & Sciences	NULL	NULL	NULL	NULL	NULL	NULL	http://www.columbia.edu/cu/gsas/departments/yiddish-studies/bulletin.html
+columbia university	United States	Yiddish Studies 	School of General Studies	NULL	NULL	NULL	NULL	NULL	NULL	http://www.gs.columbia.edu/major-title?majorid=1858
